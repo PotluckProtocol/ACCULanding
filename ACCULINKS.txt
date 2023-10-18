@@ -1,0 +1,15 @@
+
+Figma
+https://www.figma.com/file/phWZx3sKJuIGEgK8MYw7gC/Accumulator---Landing-Page?type=design&node-id=47-16440&mode=design
+
+
+
+Links For Landing (grab shimmer icon from Dapp for the explorer)
+
+Docs - https://accumulator.gitbook.io/accumulator/
+
+Twitter - https://twitter.com/ACCU_DeFi
+
+Shimmer Explorer - https://explorer.evm.shimmer.network/
+
+Community - https://discord.gg/gW8QNy2c8v
