@@ -117,7 +117,7 @@ function YieldSection(props: React.HTMLProps<HTMLDivElement>) {
                         <BlueLeaf className='mx-auto' />
                         <h2>YIELD</h2>
                         <p>Save time and money <b>auto-compounding</b> your favorite projects in our vaults.</p>
-                        <LaunchButton backgroundColor='#73D2DE' className='mt-12'>
+                        <LaunchButton backgroundColor='#73D2DE' className='mt-12' href='' target='_blank'>
                             Launch the vaults
                         </LaunchButton>
                     </YieldContainer>

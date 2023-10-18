@@ -41,7 +41,7 @@ function OnlyOnShimmerSection(props: React.HTMLProps<HTMLDivElement>) {
             <div>
                 <OnlyOn>ONLY ON</OnlyOn>
                 <ShimmerLogo className='mx-auto pt-8 pb-12' />
-                <LaunchButton backgroundColor='#4DACB8'>Go to Accumulator</LaunchButton>
+                <LaunchButton backgroundColor='#4DACB8' href='' target='_blank'>Go to Accumulator</LaunchButton>
             </div>
         </Container >
     )
